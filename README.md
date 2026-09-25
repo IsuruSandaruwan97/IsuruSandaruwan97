@@ -12,6 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isurusandaruwan97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isurusandaruwan97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsuruSandaruwan97/IsuruSandaruwan97/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsuruSandaruwan97/IsuruSandaruwan97/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IsuruSandaruwan97/IsuruSandaruwan97/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/isuru1302) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@IsuruSandaruwa8) 
